@@ -16,6 +16,6 @@ include 'includes/autoloader.php'
     $output->showUsers('ryzen4','ryzen_password4');
         // echo $output->getusers('ryzen9','ryzen_pass9');
     ?> -->
-    <p>New Update</p>
+    <p>New Update1</p>
 </body>
 </html> 
