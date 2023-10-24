@@ -17,6 +17,6 @@ include 'includes/autoloader.php'
         // echo $output->getusers('ryzen9','ryzen_pass9');
     ?> -->
     <p>New Update1</p>
-    <p>New Update21</p>
+    <p>New Update2</p>
 </body>
 </html> 
