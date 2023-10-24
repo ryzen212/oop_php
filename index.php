@@ -11,10 +11,11 @@ include 'includes/autoloader.php'
     <title>Document</title>
 </head>
 <body>
-    <?php
+    <!-- <?php
     $output = new user_view ;
     $output->showUsers('ryzen4','ryzen_password4');
         // echo $output->getusers('ryzen9','ryzen_pass9');
-    ?>
+    ?> -->
+    <p>New Update</p>
 </body>
 </html> 
